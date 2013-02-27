@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "scalper"
   gem.version       = Scalper::VERSION
   gem.authors       = ["Abhi Yerra"]
-  gem.email         = ["abhi.yerra@lookout.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["abhi@berkeley.edu"]
+  gem.description   = %q{Parse Ticket information and parse relavent information}
+  gem.summary       = %q{Parse Ticket information and parse relavent information}
   gem.homepage      = ""
 
   gem.add_dependency "typhoeus"
